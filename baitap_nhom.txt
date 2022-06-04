@@ -1,2 +1,6 @@
 nguoi thuc hien: Phan Quoc Trong
+<<<<<<< HEAD
 nội dung github
+=======
+nguoi hoc: Xuan Nguyen
+>>>>>>> 57c9360 (edit file)
